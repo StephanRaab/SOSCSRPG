@@ -5,11 +5,11 @@ namespace Engine.ViewModels
 {
 	public class GameSession
 	{
-		Player CurrentPlayer {get; set;}
-		
+		public Player CurrentPlayer {get; set;}
+
 		public GameSession()
 		{
-			// This is the constructor
+			//This is a constructor
 			CurrentPlayer = new Player();
 			CurrentPlayer.Name = "Jovan";
 			CurrentPlayer.Gold = 1000000;

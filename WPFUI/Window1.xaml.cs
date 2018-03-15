@@ -1,12 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: stephan.raab
- * Date: 3/15/18
- * Time: 11:56
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
@@ -15,6 +7,7 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
+using Engine.ViewModels;
 
 namespace WPFUI
 {
@@ -23,9 +16,14 @@ namespace WPFUI
 	/// </summary>
 	public partial class Window1 : Window
 	{
+		//scope, datatype, name of variable
+		private GameSession _gameSession;
+		
 		public Window1()
 		{
 			InitializeComponent();
+			
+			_gameSession = new GameSession();
 		}
 	}
 }
