@@ -9,3 +9,14 @@ C:\Users\stephan.raab\Documents\SharpDevelop Projects\SOSCSRPG\WPFUI\obj\Debug\W
 C:\Users\stephan.raab\Documents\SharpDevelop Projects\SOSCSRPG\WPFUI\obj\Debug\WPFUI.g.resources
 C:\Users\stephan.raab\Documents\SharpDevelop Projects\SOSCSRPG\WPFUI\obj\Debug\WPFUI.exe
 C:\Users\stephan.raab\Documents\SharpDevelop Projects\SOSCSRPG\WPFUI\obj\Debug\WPFUI.pdb
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\bin\Debug\WPFUI.exe
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\bin\Debug\WPFUI.pdb
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csprojResolveAssemblyReference.cache
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\obj\Debug\Window1.baml
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\obj\Debug\Window1.g.cs
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\obj\Debug\App.g.cs
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\obj\Debug\WPFUI.exe
+C:\Users\stephan.raab\Documents\GitHub\SOSCSRPG\WPFUI\obj\Debug\WPFUI.pdb
