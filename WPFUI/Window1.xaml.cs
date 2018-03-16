@@ -11,21 +11,23 @@ using Engine.ViewModels;
 
 namespace WPFUI
 {
-	/// <summary>
-	/// Interaction logic for Window1.xaml
-	/// </summary>
-	public partial class Window1 : Window
-	{
-		//scope, datatype, name of variable
-		private GameSession _gameSession;
-		
-		public Window1()
-		{
-			InitializeComponent();
-			
-			_gameSession = new GameSession();
-			
-			DataContext = _gameSession;
-		}
-	}
+    public partial class Window1 : Window
+    {
+        //scope, datatype, name of variable
+        private GameSession _gameSession;
+
+        public Window1()
+        {
+            InitializeComponent();
+
+            _gameSession = new GameSession();
+
+            DataContext = _gameSession;
+        }
+
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            _gameSession.CurrentPlayer.ExperiencePoints += 10;
+        }
+    }
 }

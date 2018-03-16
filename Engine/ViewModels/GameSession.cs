@@ -5,7 +5,7 @@ namespace Engine.ViewModels
 {
 	public class GameSession
 	{
-		public Player CurrentPlayer {get; set;}
+		public Player CurrentPlayer { get; set; }
 
 		public GameSession()
 		{
