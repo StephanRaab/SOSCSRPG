@@ -12,7 +12,11 @@ namespace Engine.ViewModels
 			//This is a constructor
 			CurrentPlayer = new Player();
 			CurrentPlayer.Name = "Jovan";
+			CurrentPlayer.CharacterClass = "Fighter";
+			CurrentPlayer.HitPoints = 10;
 			CurrentPlayer.Gold = 1000000;
+			CurrentPlayer.ExperiencePoints = 0;
+			CurrentPlayer.Level = 1;
 		}
 	}
 }
